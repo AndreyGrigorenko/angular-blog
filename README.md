@@ -1,2 +1,1 @@
 # angular-blog
-Angular blog
